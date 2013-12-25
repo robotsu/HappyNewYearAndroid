@@ -134,6 +134,7 @@ h4 {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
+	margin-top:50px;
 }
 
 #intro .arrows {
@@ -176,9 +177,9 @@ h4 {
 }
 
 .drop {
-	font-weight:bold;
-	padding:1em;
-	background: url('../images/icons_winter_01.png') center center no-repeat;
+	width:68px;
+	height:64px;
+	background: url('../images/coin_shrimp_sprite.png') center center no-repeat;
 }
 
 #download {
@@ -194,6 +195,10 @@ h4 {
 	background:#ccc url('../images/icons_winter_02.png') top right no-repeat;
 }
 
+.happy-new-year {
+	margin-top:120px;
+	color:#bb0000;
+}
 .twitter-share-button, .twitter-follow-button {
 	vertical-align:middle;
 }
