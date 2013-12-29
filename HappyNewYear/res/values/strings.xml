@@ -4,5 +4,6 @@
     <string name="app_name">HappyNewYear</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="share_content">亲，我已经收到来自objcc.com的新年礼物了，你也快去免费领取[礼物]吧。</string>
 
 </resources>
